@@ -23,12 +23,7 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Ruby | Javascript  
-- 🌐 &nbsp; Rails | React | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; Ruby | Javascript/Typescript | Python 
+- 🌐 &nbsp; Rails | React | HTML | CSS | JavaScript | Bootstrap | Django
 - 🛢 &nbsp; PostgreSQL | MongoDB
 - 🔧 &nbsp; Jetbrains | Visual Studio code | Git
-
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexleesonmill&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
